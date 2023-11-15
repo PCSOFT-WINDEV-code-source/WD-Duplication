@@ -1,0 +1,96 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Duplication
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Duplication
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Duplication
+    internal_properties : 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
+    configuration_id : 14433949457015612789
+    type : 1
+    generation_name : WD Duplication.exe
+    version :
+     version : VI200030B
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\icone.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAADByV5c5+CB5SE/KPsjUKnA2SVKXJ2NhxBjOw2zGsVYEOS5aAOkGPoVQjNwQlepic1v8TNiGkguwMQyPg==
+ elements :
+  identifier : 0x4ac6041a0011f03e
+  elements :
+   -
+     name : WinDevMessageBox
+     identifier : 0x45fbd3c500a75d2f
+     internal_properties : CAAAAAgAAAD4ViB8y/C44+kZF7kzpYZGjv/1rSfoxvquI3Jkwm2nCcsrJElZrxaNznNtS8sF/fPdZQ==
+     physical_name : .\WinDevMessageBox.WDW
+     type : 2
+   -
+     name : TEST_Principale
+     identifier : 0x4b573d1a000f0179
+     internal_properties : CAAAAAgAAAAKAHIWldJaBcJiwoMpYMrBGLvXD8tUbY+K/EdPe7RY2HyC8HGmGoE5q5UP6akn08UPFw==
+     physical_name : .\TEST_Principale.wxt
+     type : 17
+   -
+     name : FEN_Principale
+     identifier : 0x490f17fd00015a4b
+     internal_properties : CAAAAAgAAABCOLru3YqivRqqGvvxGbIpdBGjOxul22OKuHLluGErLdNf1woe4kkBY93HMfHvi31Hzw==
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+   -
+     name : WinDevDialogBox
+     identifier : 0x45fbd36f00730f04
+     internal_properties : CAAAAAgAAADQCaNy26kA4AXaEYUt/Uq+v0F7O+fGn9KXeTgjePvrCA10+jgescFkh2+sTaldpw==
+     physical_name : .\WinDevDialogBox.WDW
+     type : 2
+  other_elements :
+   -
+     physical_name : .\description.gif
+   -
+     physical_name : .\description.rtf
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAACyF4y3ow+G8VlE/mE+wRTdUQ5JcDHcnCndDx2tbKVe0XDe1fIJsfeR8vRk+ri/S1b6BuK36Tv5tvA4koJLR/Loux/YzmIneO4SgXP9wbMULmfj
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Duplication
+     identifier : 0x4ac6041a0017f0ab
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
